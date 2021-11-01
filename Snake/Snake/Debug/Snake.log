@@ -1,0 +1,9 @@
+﻿  Board.cpp
+  Food.cpp
+  HelperFunctions.cpp
+  SevagSnake.cpp
+  EntryPoint.cpp
+  Generating Code...
+C:\Dev\Snake\Snake\SevagSnake.cpp(28): warning C4172: returning address of local variable or temporary
+C:\Dev\Snake\Snake\SevagSnake.cpp(32): warning C4172: returning address of local variable or temporary
+  Snake.vcxproj -> C:\Dev\Snake\Debug\Snake.exe
